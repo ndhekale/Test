@@ -7,6 +7,8 @@ public class Example {
 	{
 		System.out.println("Public isn't accessable");
 		
+		//Narendra is good Boy
+		
 	}
 	
 	
